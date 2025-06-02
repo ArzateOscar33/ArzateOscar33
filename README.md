@@ -1,16 +1,27 @@
 <!-- HEADER -->
-<div align="center" width="100">
+<div align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Oscar%20Arzate&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn"
   alt="header"/>
 </div>
 
-<!-- SOBRE MÍ -->
-<h2 align="center">¡Hola! Soy Oscar Giovanny Arzate 👨‍💻</h2>
-<p align="center">
-  Ingeniero en Sistemas graduado del Instituto Tecnológico de Tijuana.<br/>
-  Desarrollador web full stack con enfoque en PHP, JavaScript y sistemas automatizados.<br/>
-  Apasionado por la eficiencia, los sistemas MVC, la documentación clara y el código bien estructurado.
-</p>
+<!-- TEXTO QUE SE ESCRIBE SOLO -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+automatizaci%C3%B3n;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
+</h3>
+
+<!-- TARJETA DE PRESENTACIÓN -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <h2>Desarrollador Full Stack 👨‍💻</h2>
+  <p>
+    Soy Oscar Giovanny Arzate, Ingeniero en Sistemas del Instituto Tecnológico de Tijuana.<br/>
+    Trabajo con PHP, JavaScript, Python, bases de datos relacionales y automatización de procesos.<br/>
+    Apasionado por la organización, el código limpio y la mejora continua.
+  </p>
+  <a href="mailto:oscargarzate@gmail.com">
+    <img src="https://img.shields.io/badge/Contacto%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -22,7 +33,7 @@
   <a href="https://www.instagram.com/oscarg.arzate/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/oscargarzate">
+  <a href="https://github.com/arzateoscar33">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -30,8 +41,8 @@
 ---
 
 <!-- STACK -->
-<div align="center" width="100">
-  <h1>Stack</h1>
+<div align="center" width="100%">
+  <h1>🚀 Stack Tecnológico</h1>
   
   <!-- Languages -->
   </br>
@@ -71,8 +82,8 @@
 ---
 
 <!-- STATS -->
-<div align="center" width="100">
-  <h1>Estadísticas</h1>
+<div align="center" width="100%">
+  <h1>📈 Estadísticas</h1>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arzateoscar33&theme=tokyonight&hide_border=true" alt="Oscar GitHub Streak">
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=arzateoscar33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
@@ -84,9 +95,21 @@
 
 ---
 
+<!-- PROYECTOS DESTACADOS -->
+### 📌 Proyectos destacados
+
+- 🎓 **Mechanical System**  
+  Sistema completo de gestión con módulos para certificados, roles, firmas digitales, generación de ZIPs y PDF automatizados, corrección de errores y más.
+
+- 🛒 **AudazHats.com**  
+  Personalización profesional de tienda Shopify estilo *El Dreamer Hats*, mejoras de UI/UX, eliminación de elementos innecesarios, SEO y branding.
+
+- 🤖 **Scrappy OCR Automation**  
+  Software de scraping masivo con OCR, análisis semántico y carga estructurada a backend PHP/MySQL. Capacidad de procesamiento de +15,000 archivos.
+
+---
+
 <!-- FOOTER -->
-<div align="center" width="100">
+<div align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
 </div>
-
- 
