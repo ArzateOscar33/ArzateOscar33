@@ -6,7 +6,7 @@
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+automatizaci%C3%B3n;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;" alt="Typing SVG" />
 </h3>
 
 <!-- TARJETA DE PRESENTACIÓN -->
@@ -15,8 +15,8 @@
   <h2>Desarrollador Full Stack 👨‍💻</h2>
   <p>
     Soy Oscar Giovanny Arzate, Ingeniero en Sistemas del Instituto Tecnológico de Tijuana.<br/>
-    Trabajo con PHP, JavaScript, Python, bases de datos relacionales y automatización de procesos.<br/>
-    Apasionado por la organización, el código limpio y la mejora continua.
+    Trabajo con PHP, JavaScript, Python, C#, y tecnologías orientadas a automatización, web y bases de datos.<br/>
+    También he desarrollado software para PLC usando C#, integrando sistemas industriales a plataformas digitales.
   </p>
   <a href="mailto:oscargarzate@gmail.com">
     <img src="https://img.shields.io/badge/Contacto%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -43,40 +43,67 @@
 <!-- STACK -->
 <div align="center" width="100%">
   <h1>🚀 Stack Tecnológico</h1>
-  
-  <!-- Languages -->
-  </br>
-  <h3>Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" alt="Typescript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" alt="Javascript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS3">
 
-  </br></br>
+  <h3>Lenguajes de Programación</h3>
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/><br/>Java</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/><br/>C#</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br/>TypeScript</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br/>JavaScript</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br/>PHP</td>
+       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60"/><br/>Bootstrap</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/><br/>HTML5</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/><br/>CSS3</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br/>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60"/><br/>NodeJS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/><br/>React</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/><br/>Angular</td>
+    </tr>
+ 
+  </table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60px" alt="Angular">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px" alt="Bootstrap">
-  
-  <!-- Storages -->
-  </br>
-  <h3>Storages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60px" alt="Oracle">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60px" alt="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60px" alt="Firebase">
-  
-  <!-- Tools -->
-  </br>
-  <h3>Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60px" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px" alt="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="60px" alt="Trello">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="60px" alt="IntelliJ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60px" alt="VS Code">
+<h3>Bases de Datos</h3>
+<table>
+  <tr border="none">
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/><br/>Oracle</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60"/><br/>Firebase</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"/><br/>SQLite</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60"/><br/>SQL Server</td>
+  </tr>
+ 
+</table>
+
+
+<h3>Herramientas</h3>
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60"/><br/>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60"/><br/>WordPress</td>
+         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60"/><br/>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60"/><br/>Visual Studio</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" width="60"/><br/>Atom</td>
+    
+       
+          
+  </tr>
+ 
+</table>
+
+
+
+  <h3>Sistemas Operativos</h3>
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"/><br/>Windows</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br/>Linux</td>
+    </tr>
+  </table>
 </div>
 
 ---
